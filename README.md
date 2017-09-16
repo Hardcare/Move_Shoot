@@ -1,3 +1,3 @@
 # Move_Shoot
 
-Ce projet est pour les études !
+This student project, is to make our 2D shooter with C and SDL. 
