@@ -5,4 +5,4 @@ Toute votre vie vous aviez rêvé de mettre des sales balles dans la tête de Jb
 
 ___________________________________________________________________________________________________________________________________
 
-Réalisé en C (SVN) par Hardcare et Montfra.
+Réalisé en C (SDL) par Hardcare et Montfra.
